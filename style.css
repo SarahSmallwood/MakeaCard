@@ -1,0 +1,34 @@
+.cardTitle{
+    border: solid pink;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 45px;
+    background-color: fuchsia;
+    color: aqua;
+    padding-top: 40px; 
+    padding-bottom: 25px;
+    margin-bottom: 0%;
+
+
+}
+.cardHead{
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+
+}
+.genieA{
+    border: solid blue;
+    display: flex;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+
+}
+.cardMessage{
+    border: solid purple;
+    text-align:center;
+    color: aqua;
+    background-color: fuchsia;
+    font-size: 35px;
+}
